@@ -3,6 +3,7 @@
 ### Here you go.
 [Huggingface](https://huggingface.co/spaces/Alay-Ashokan/StudyWithRAG)
 
+
 ---
 title: StudyWithRAG
 emoji: 🚀
@@ -14,5 +15,6 @@ app_file: app.py
 pinned: false
 license: apache-2.0
 ---
+
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
