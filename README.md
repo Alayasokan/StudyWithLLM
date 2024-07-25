@@ -1,3 +1,10 @@
+### This is an AI application based on RAG (Retrieval-Augmented Generation) for students to ask questions about their study documents.
+
+## Want to check out the project.
+
+## Here yo go.
+[Huggingface](https://huggingface.co/spaces/Alay-Ashokan/StudyWithRAG)
+
 ---
 title: StudyWithRAG
 emoji: 🚀
